@@ -22,5 +22,5 @@ Before running or building the project, ensure you have the following installed:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/CalculatorGradleProject.git
+git remote add origin git@github.com:drkjavier/CalculatorGradleProject.git
 cd CalculatorGradleProject
